@@ -1,0 +1,8 @@
+
+Name           Used (GB)     Free (GB) Provider      Root                                CurrentLo
+                                                                                            cation
+----           ---------     --------- --------      ----                                ---------
+C                 172,85        303,07 FileSystem    C:\                                 ...lzevul
+
+
+
